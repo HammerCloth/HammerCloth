@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @HammerCloth
-- 👀 I’m interested in 🏓️
-- 🌱 I’m currently learning java、Deep learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+👋 Hi, I’m SiYiXiong
 
 <!---
 HammerCloth/HammerCloth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
