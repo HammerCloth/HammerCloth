@@ -1,6 +1,27 @@
-👋 Hi, I’m SiYiXiong.Welcome to follow some of my projects. I will continue to open source some interesting projects.
+<h1>Hi siyixiong here ...</h1>
+<img align='right' src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="230">
 
-<!---
-HammerCloth/HammerCloth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🔭 **I’m currently working and exploring the areas of back-end.**
+- 👯 **I’m looking to collaborate on opensource projects related to back-end.**
+- 📫 **How to reach me, mail to: siyixiong.gf@gmail.com**
+- ⚡  **Fun fact: 成功留给努力的人**
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd love to connect with different people. Send me 👋 i'll be happy to meet you</b> 😊</em>
+
+
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+
+![AdicherlaVenkataSai github stats](https://github-readme-stats.vercel.app/api?username=HammerCloth&show_icons=true)
+
+
+
+
+
+
+
+ 
+
